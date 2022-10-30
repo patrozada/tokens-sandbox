@@ -1,0 +1,35 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 30 Oct 2022 22:15:00 GMT
+ */
+
+:root {
+  --sd-color-base-gray-light: #cccccc;
+  --sd-color-base-gray-medium: #999999;
+  --sd-color-base-gray-dark: #111111;
+  --sd-color-base-red: #ff0000;
+  --sd-color-base-green: #00ff00;
+  --sd-color-font-base: #ff0000;
+  --sd-color-font-secondary: #00ff00;
+  --sd-color-font-tertiary: #cccccc;
+  --sd-size-font-small: 0.75rem; /* the small size of the font */
+  --sd-size-font-medium: 1rem; /* the medium size of the font */
+  --sd-size-font-large: 2rem; /* the large size of the font */
+  --sd-size-font-base: 1rem; /* the base size of the font */
+  --sd-global-base: 80;
+  --sd-global-sm: 80;
+  --sd-global-md: 80 * 2;
+  --sd-global-lg: 80 * 3;
+  --sd-global-xl: 80*4;
+  --sd-global-xs: 80 / 2;
+  --sd-global-danger-4: #931F1D;
+  --sd-global-danger-5: #551211;
+  --sd-global-danger-3: #D73533;
+  --sd-global-danger-2: #E78988;
+  --sd-global-danger-1: #FCEEEE;
+  --sd-global-primary-1: #FED7F4;
+  --sd-global-primary-2: #FE9AE5;
+  --sd-global-primary-3: #820263;
+  --sd-global-primary-4: #50013D;
+  --sd-global-primary-5: #28011E;
+}
