@@ -1,27 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Sun, 30 Oct 2022 22:15:00 GMT
+ * Generated on Tue, 01 Nov 2022 15:45:51 GMT
  */
 
 :root {
-  --sd-color-base-gray-light: #cccccc;
-  --sd-color-base-gray-medium: #999999;
-  --sd-color-base-gray-dark: #111111;
-  --sd-color-base-red: #ff0000;
-  --sd-color-base-green: #00ff00;
-  --sd-color-font-base: #ff0000;
-  --sd-color-font-secondary: #00ff00;
-  --sd-color-font-tertiary: #cccccc;
-  --sd-size-font-small: 0.75rem; /* the small size of the font */
-  --sd-size-font-medium: 1rem; /* the medium size of the font */
-  --sd-size-font-large: 2rem; /* the large size of the font */
-  --sd-size-font-base: 1rem; /* the base size of the font */
   --sd-global-base: 80;
-  --sd-global-sm: 80;
-  --sd-global-md: 80 * 2;
-  --sd-global-lg: 80 * 3;
-  --sd-global-xl: 80*4;
-  --sd-global-xs: 80 / 2;
+  --sd-global-sm: 80px;
+  --sd-global-md: 160px;
+  --sd-global-lg: 240px;
+  --sd-global-xl: 420px;
+  --sd-global-xs: 40px;
   --sd-global-danger-4: #931F1D;
   --sd-global-danger-5: #551211;
   --sd-global-danger-3: #D73533;
@@ -31,5 +19,21 @@
   --sd-global-primary-2: #FE9AE5;
   --sd-global-primary-3: #820263;
   --sd-global-primary-4: #50013D;
-  --sd-global-primary-5: #28011E;
+  --sd-global-primary-5: #28001F;
+  --sd-global-white: #fff;
+  --sd-global-secondary-3: #FF5400;
+  --sd-global-secondary-4: #7A2900;
+  --sd-global-secondary-5: #3D1400;
+  --sd-global-secondary-2: #FFC6AD;
+  --sd-global-secondary-1: #FFF1EB;
+  --sd-global-success-5: #121A0F;
+  --sd-global-success-4: #2D4125;
+  --sd-global-success-3: #5A824A;
+  --sd-global-success-2: #C7DBBD;
+  --sd-global-success-1: #F4F8F2;
+  --sd-global-neutral-1: #F4F4F6;
+  --sd-global-neutral-2: #C7C7D1;
+  --sd-global-neutral-3: #84849A;
+  --sd-global-neutral-4: #49495A;
+  --sd-global-neutral-5: #1C1C22;
 }
