@@ -1,48 +1,48 @@
 @import "../build/css/_variables.css";
 
 .card {
-    border: var(--sd-global-secondary-5) 2px solid;
-    background-color: var(--sd-global-secondary-2);
-    width: var(--sd-global-xl);
+    border: var(--sd-global-color-primary-5) 2px solid;
+    background-color: var(--sd-global-color-primary-2);
+    width: var(--sd-global-sizing-xl);
     padding: 0;
 } 
 
 .card__image--container {
-    min-height:var(--sd-global-lg);
-    min-width: var(--sd-global-xl);
+    min-height:var(--sd-global-sizing-lg);
+    min-width: var(--sd-global-sizing-xl);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card__tags {
     display: flex;
-    gap: calc(var(--sd-global-xs)/2);
-    padding: calc(var(--sd-global-xs)/2);
+    gap: calc(var(--sd-global-sizing-xs)/2);
+    padding: calc(var(--sd-global-sizing-xs)/2);
 }
 .card__image--mask{
-    min-height:var(--sd-global-lg);
-    min-width: var(--sd-global-xl);
-    background-color: var(--sd-global-neutral-5);
+    min-height:var(--sd-global-sizing-lg);
+    min-width: var(--sd-global-sizing-xl);
+    background-color: var(--sd-global-color-neutral-5);
     position: absolute;
     opacity:0.3;
     z-index: 10;
 }
 .card__tag {
-    border: var(--sd-global-secondary-3) 2px solid;
-    background-color: var(--sd-global-secondary-1);
-    padding: calc(var(--sd-global-xs)/7) calc(var(--sd-global-xs)/4);
-    color:var(--sd-global-secondary-3);
+    border: var(--sd-global-color-primary-3) 2px solid;
+    background-color: var(--sd-global-color-primary-1);
+    padding: calc(var(--sd-global-sizing-xs)/7) calc(var(--sd-global-sizing-xs)/4);
+    color:var(--sd-global-primary-3);
 }
 
 .card__content{
-    padding: calc(var(--sd-global-xs)/2);
-    color:var(--sd-global-secondary-5);
+    padding: calc(var(--sd-global-sizing-xs)/2);
+    color:var(--sd-global-color-primary-5);
 }
 
 .card__title{
-    padding: calc(var(--sd-global-xs)/2);
+    padding: calc(var(--sd-global-sizing-xs)/2);
     margin: 0;
     position: absolute;
     z-index: 20;
-    color:var(--sd-global-secondary-2);
+    color:var(--sd-global-color-primary-2);
 }
