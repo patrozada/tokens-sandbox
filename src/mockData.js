@@ -16,11 +16,11 @@ export const mockData = [
         image: 'https://images.unsplash.com/photo-1666974993470-d1116c9667e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3MHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
         content: 'Laborum eius architecto et illo dignissimos. Similique accusantium eaque qui temporibus minus aliquam.',
         tags: ['campsite', 'night', 'stars']
-    },
-    {
-        title: 'Card 4',
-        image: 'https://images.unsplash.com/photo-1667156290680-12468bca927e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-        content: 'Esse alias culpa totam asperiores nesciunt amet! Similique accusantium eaque qui temporibus minus aliquam.',
-        tags: ['sunset', 'mountain']
     }
+    // {
+    //     title: 'Card 4',
+    //     image: 'https://images.unsplash.com/photo-1667156290680-12468bca927e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
+    //     content: 'Esse alias culpa totam asperiores nesciunt amet! Similique accusantium eaque qui temporibus minus aliquam.',
+    //     tags: ['sunset', 'mountain']
+    // }
 ]
