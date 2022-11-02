@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 02 Nov 2022 11:54:51 GMT
+ * Generated on Wed, 02 Nov 2022 14:18:56 GMT
  */
 
 :root {
@@ -42,6 +42,7 @@
   --sd-global-br-round: 50%;
   --sd-global-font-title: [object Object];
   --sd-global-font-paragraph: [object Object];
+  --sd-global-br-none: 0px;
   --sd-buttons-sizing-width-base: 160px;
   --sd-buttons-sizing-height-base: 42px;
   --sd-buttons-spacing-base-vertical: 8px;

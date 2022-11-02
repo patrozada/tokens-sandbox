@@ -4,7 +4,7 @@
     border: var(--sd-global-color-primary-5) 2px solid;
     background-color: var(--sd-global-color-primary-2);
     width: var(--sd-global-sizing-xl);
-    padding: 0;
+    border-radius: var(--sd-global-br-xs);
 } 
 
 .card__image--container {
@@ -12,17 +12,20 @@
     min-width: var(--sd-global-sizing-xl);
     background-size: cover;
     background-repeat: no-repeat;
+    border-radius: var(--sd-global-br-xs);
 }
 
 .card__tags {
     display: flex;
     gap: calc(var(--sd-global-sizing-xs)/2);
     padding: calc(var(--sd-global-sizing-xs)/2);
+    border-radius: var(--sd-global-br-xs);
 }
 .card__image--mask{
     min-height:var(--sd-global-sizing-lg);
     min-width: var(--sd-global-sizing-xl);
     background-color: var(--sd-global-color-neutral-5);
+    border-radius: var(--sd-global-br-xs);
     position: absolute;
     opacity:0.3;
     z-index: 10;
@@ -30,6 +33,7 @@
 .card__tag {
     border: var(--sd-global-color-primary-3) 2px solid;
     background-color: var(--sd-global-color-primary-1);
+    border-radius: var(--sd-global-br-xs);
     padding: calc(var(--sd-global-sizing-xs)/7) calc(var(--sd-global-sizing-xs)/4);
     color:var(--sd-global-primary-3);
 }

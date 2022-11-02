@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 02 Nov 2022 11:54:51 GMT
+ * Generated on Wed, 02 Nov 2022 14:18:56 GMT
  */
 
 export const GlobalBase = "80";
@@ -41,6 +41,7 @@ export const GlobalBrLg = "16px";
 export const GlobalBrRound = "50%";
 export const GlobalFontTitle = {"fontFamily":"Tenor Sans","fontWeight":"700","fontSize":"24px","lineHeight":"32px"};
 export const GlobalFontParagraph = {"fontFamily":"Nunito","fontWeight":"400","lineHeight":"24px","fontSize":"16px"};
+export const GlobalBrNone = "0px";
 export const ButtonsSizingWidthBase = "160px";
 export const ButtonsSizingHeightBase = "42px";
 export const ButtonsSpacingBaseVertical = "8px";
